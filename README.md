@@ -1,4 +1,6 @@
-![BinarySkullBanner](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+<div align="center">
+  <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="BinarySkullBanner" style="width: 100%; max-width: 800px;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Youssef</h1>
 <h3 align="center">A passionate Artificial Intelligence student from Egypt!</h3>
