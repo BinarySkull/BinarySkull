@@ -29,10 +29,12 @@
 ### 🚀 Featured Projects
 | Project | Description | 🔗 Link |
 | :-----: | :---------: | :-----: |
-| **Brain Tumor Classifier** | Glioma detection using a custom BEFUnet. 95%+ accuracy. | [GitHub](https://github.com/BinarySkull/glioma-classifier) |
-| **Landmark Recognizer** | CNN from scratch to classify 100+ landmarks. | [GitHub](https://github.com/BinarySkull/landmark-cnn) |
-| **Ventilator Pressure Prediction** | Kaggle Google Brain contest – >90% accuracy. | [Kaggle](https://kaggle.com/…) |
-| ** ** |  | [Live ▶️]() |
+| **Befunet** | Braiiinn | [GitHub]() |
+| **BikeShare Demand Prediction** | Predicting bike sharing demand using AutoGluon and AWS. | [GitHub](https://github.com/BinarySkull/BikeShare-Demand-Prediction) |
+| **Landmark Recognizer** | CNN from scratch to classify 100+ landmarks. | [GitHub](https://github.com/BinarySkull/Landmark-Image-Classification) |
+| **Investigating the Movies** | EDA is being performed on the TMDB movies dataset to extract valuable insights. | [GitHub](https://github.com/BinarySkull/Investigating-the-Movies) |
+| **Model reduction Techniques** | We compare between the three most important ways of model size reduction in this repo. | [GitHub](https://github.com/BinarySkull/CIFAR-10-Model-Techniques) |
+| **Movie Recommendation System** | Creating a movie recommendation system using user-user and item-user collaborative filtering. | [GitHub](https://github.com/BinarySkull/Movie-Recommendation-System) |
 
 ---
 <h3 align="left">Languages and Tools:</h3>
