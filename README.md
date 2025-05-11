@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **CNNs and NLP**
 
-- 📫 Reach me at **ahmed.youssef.ai.dev@gmail.com** or on my LinkedIn
+- 📫 Reach me at **ahmed.youssef.ai.dev@gmail.com** or on my [LinkedIn](https://www.linkedin.com/in/ahmedyoussefdev01/)
 
 - ⚡ Fun fact **I like swimming & always up for an adrenaline rush!**
 
