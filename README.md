@@ -1,43 +1,102 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="BinarySkullBanner" style="width: 100%; max-width: 800px;">
+  <a href="https://github.com/BinarySkull">
+    <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="AI/ML Engineer Banner" width="800"/>
+  </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Ahmed Youssef</h1>
-<h3 align="center">A passionate AI & Machine Learning Developer!</h3>
+<h1 align="center">Hi, I'm Ahmed Youssef 👋</h1>
+<h3 align="center">An AI & Machine Learning Engineer Passionate About Building Intelligent Systems</h3>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=binarskull&label=Profile%20views&color=0e75b6&style=flat-square" alt="binarskull" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binarskull&label=Profile%20views&color=0e75b6&style=flat" alt="binarskull" /> </p>
 
-- 🔭 I’m currently working on **Hugging Face AI Agents Course**
+I'm an AI/ML Engineer with a Bachelor's in Computer Science, specializing in Intelligent Systems. My passion lies in transforming complex, real-world problems into high-impact solutions through code and manipulating AI systems creatively to get the best results. I have hands-on experience developing **LLM-based applications**, implementing **computer vision models** for medical imaging, and building **end-to-end data analysis pipelines**.
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🔭 I’m currently diving deep into **Agentic AI** and trying to learn advanced systems with the **Hugging Face AI Agents Course**.
+- 🌱 My goal is to continuously bridge the gap between cutting-edge research and practical, deployable AI solutions.
+- 💬 Ask me about **PyTorch, Computer Vision (CV), Large Language Models (LLMs), and MLOps**.
+- 📫 Let's connect! Reach out to me on my LinkedIn or shoot me an email. ↙↙🔫
 
-- 👨‍💻 All of my projects are available at [https://github.com/BinarySkull](https://github.com/BinarySkull)
-
-- 💬 Ask me about **CNNs and NLP**
-
-- 📫 Reach me at **ahmed.youssef.ai.dev@gmail.com** or on my [LinkedIn](https://www.linkedin.com/in/ahmedyoussefdev01/)
-
-- ⚡ Fun fact **I like swimming & always up for an adrenaline rush!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmedyoussefdev01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed youssef" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahmedyoussefdev01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmed.youssef.ai.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://binaryskull.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | 🔗 Link |
-| :-----: | :---------: | :-----: |
-| **BikeShare Demand Prediction** | Predicting bike sharing demand using AutoGluon and AWS. | [GitHub](https://github.com/BinarySkull/BikeShare-Demand-Prediction) |
-| **Landmark Recognizer** | CNN from scratch to classify 100+ landmarks. | [GitHub](https://github.com/BinarySkull/Landmark-Image-Classification) |
-| **Model reduction Techniques** | We compare between the three most important ways of model size reduction in this repo. | [GitHub](https://github.com/BinarySkull/CIFAR-10-Model-Techniques) |
-| **Movie Recommendation System** | Creating a movie recommendation system using user-user and item-user collaborative filtering. | [GitHub](https://github.com/BinarySkull/Movie-Recommendation-System) |
-| **BEFUnet Brain Segmentation** | Using hybrid architectures to mitigate the limitations of CNNs in MRI segmentation. | [GitHub](https://github.com/BinarySkull/BEFUnet-MRI-Segmentation) |
-| **Investigating the Movies** | EDA is being performed on the TMDB movies dataset to extract valuable insights. | [GitHub](https://github.com/BinarySkull/Investigating-the-Movies) |
+## 🛠️ My Tech Stack
+
+My toolbox is equipped with the latest technologies for building robust and scalable AI systems from the ground up.
+
+<table>
+  <tr>
+    <td align="center"><strong>Core AI/ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/LLM-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white" alt="LLMs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Concepts & Methods</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-F37A22?style=for-the-badge" alt="RAG" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-412F8A?style=for-the-badge" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/MLOps-23912A?style=for-the-badge" alt="MLOps" />
+      <img src="https://img.shields.io/badge/Agile-425FE9?style=for-the-badge" alt="Agile" />
+    </td>
+  </tr>
+</table>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryskull&show_icons=true&locale=en&layout=compact" alt="binarskull" /></p>
+## 🚀 Featured Projects
+
+Here are some of the projects I'm most proud of. They showcase my skills in deep learning, MLOps, and data-driven problem-solving.
+
+| Project                                                                                  | Description                                                                                                                                                                                                                         | Tech Stack                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **[AI-Powered Glioma Segmentation](https://github.com/BinarySkull/BEFUnet-MRI-Segmentation)** | My graduation project, where I adapted the **BEFUnet (CNN-Transformer)** architecture to segment gliomas from multimodal MRI scans. **Achieved a mean IoU of 0.805** on the BraTS 2020 dataset by building a full end-to-end training and evaluation pipeline. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| 🏭 **[End-to-End Landmark Classifier](https://github.com/BinarySkull/Landmark-Image-Classification)** | Designed a complete MLOps-lite workflow to classify landmark images. This project included data processing, comparing a **custom CNN vs. a fine-tuned ResNet18**, implementing `pytest` unit tests, and packaging models with `torch.jit` for deployment. | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/MLOps-23912A?style=flat-square" /> <img src="https://img.shields.io/badge/PyTest-0A9A40?style=flat-square&logo=pytest&logoColor=white" />  |
+| ⚡ **[Model Optimization Analysis](https://github.com/BinarySkull/CIFAR-10-Model-Techniques)** | Executed a comparative study on a ResNet50 model to evaluate optimization techniques. **Achieved up to 90% model size reduction (245MB to 23MB)** via quantization and a **2x inference speed-up** through knowledge distillation, all while managing accuracy trade-offs. | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/TFMO-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> |
+| 🚲 **[Bike Demand Prediction on AWS](https://github.com/BinarySkull/BikeShare-Demand-Prediction)** | Developed a predictive model for a Kaggle competition using **AWS SageMaker Studio**. This project leveraged **AutoGluon** with custom hyperparameter optimization (HPO) to forecast bike sharing demand, transitioning from descriptive analysis to building a cloud-based ML solution. | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AutoML-4B0082?style=flat-square" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+
+---
+
+## 📜 Certifications & Professional Development
+
+I believe in lifelong learning and continuously sharpen my skills through structured programs and certifications.
+
+- **AI and ML Bootcamp** – US Embassy | Sprints *(May 2025)*
+- **McKinsey Forward Program** – McKinsey & Company *(July 2025)*
+- **Machine Learning Fundamentals Nanodegree** – Udacity & AWS *(Aug 2023)*
+- **AI Programming with Python Nanodegree** – Udacity & AWS *(Jan 2023)*
+- **Data Analysis Professional Nanodegree** – Udacity & ITIDA *(Nov 2021)*
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binaryskull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryskull&layout=compact&langs_count=8&theme=dracula"/>
